@@ -547,6 +547,14 @@ body {
 
 .edu-meta i { color: var(--accent); }
 
+.edu-meta .graduated {
+    color: #4caf7d;
+}
+
+.edu-meta .graduated i {
+    color: #4caf7d;
+}
+
 /* ─── Projects ─── */
 .projects-list { display: flex; flex-direction: column; gap: 40px; }
 
